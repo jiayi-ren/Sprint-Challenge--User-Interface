@@ -113,9 +113,41 @@ p {
     padding-bottom: 20px;  
 }
 
+.top-content .text-container-about {
+    width: 96%;
+    padding: 0 1%;
+    padding-bottom: 20px;  
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+}
+
+.middle-content-about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.middle-content-child {
+    width: 46%;
+    padding: 20px 0;
+    margin-bottom: 20px;  
+    border-bottom: 1px dashed black;
+}
+
+.middle-content-child img {
+    padding-bottom: 20px;
+    max-width: 100%;  
+}
+
+.middle-content-child button {
+    margin-top: 20px;
+    padding: 2% 5%;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    background-color: white;
 }
 
 .middle-content h2 {
