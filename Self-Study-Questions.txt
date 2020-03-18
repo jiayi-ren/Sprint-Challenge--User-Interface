@@ -1,0 +1,17 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+	Think of building a web page as building a house, semantic HTML is the framework and foundation to support everything else to build a web page. Just like we have to pour foundation, build frames, install roof if we want to build a house.
+
+Name two big differences between display: block; and display: inline;.
+	1.block starts a new line while inline doesn't
+	2.block takes the full width while inline only takes the necessary width.
+
+What are the 4 areas of the box model?
+	content, padding, border, margin
+
+While using flexbox, what axis does the following property work on: align-items: center?
+	cross axis
+
+Explain why git is valuable to a team of developers.
+	It is easier for developers to work independently on different features then merge back.
+	It is useful for version control, backup, restoring.
+	It can create efficient and productive workflow.
